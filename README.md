@@ -40,6 +40,7 @@ gcc -O2 -Wall knight_tour.c -o knight_tour
 
 ---
 ## Example Output
+```bash
 
 Tour found on 8x8 (start 0,0, Warnsdorff):
   1  60  39  34  31  18   9  64
