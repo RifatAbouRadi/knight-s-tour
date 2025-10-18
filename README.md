@@ -33,6 +33,7 @@ Starting from the center usually gives a longer partial path than starting from 
 ---
 # How to Compile and Run
 # Compile
+
 gcc -O2 -Wall knight_tour.c -o knight_tour
 
 # Run
