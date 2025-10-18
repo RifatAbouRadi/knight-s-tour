@@ -39,7 +39,8 @@ gcc -O2 -Wall knight_tour.c -o knight_tour
 ./knight_tour <board_size> <use_warnsdorff>
 
 ---
-# Example Output
+## Example Output
+
 Tour found on 8x8 (start 0,0, Warnsdorff):
   1  60  39  34  31  18   9  64
  38  35  32  19  10  63  30  17
@@ -49,3 +50,4 @@ Tour found on 8x8 (start 0,0, Warnsdorff):
  50  37  48  43  24  15  14  21
  57   4  55  26  45  52  27   6
  44  51  56   5  54  47  16  53
+
