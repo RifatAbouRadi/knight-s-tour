@@ -11,6 +11,7 @@ Backtracking search – systematically explores all possible moves until a full 
 Warnsdorff’s heuristic – a greedy method that chooses the next move with the fewest onward options, usually producing a valid tour much faster.
 
 You can experiment with different board sizes (e.g., 4×4, 6×6, 8×8) and algorithms to explore how the knight behaves.
+
 ---
 # Features
 
@@ -25,6 +26,7 @@ Warnsdorff heuristic (greedy approach)
 Prints the complete board path if a full tour is found.
 
 Reports when no full tour exists (for example, on a 4×4 board).
+
 ---
 # Note:
 
