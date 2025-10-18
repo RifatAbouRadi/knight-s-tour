@@ -32,6 +32,7 @@ Reports when no full tour exists (for example, on a 4×4 board).
 
 A 4×4 board has no valid Knight’s Tour — you can try it to observe how the knight gets trapped after a few moves.
 Starting from the center usually gives a longer partial path than starting from a corner.
+
 ---
 # How to Compile and Run
 # Compile
