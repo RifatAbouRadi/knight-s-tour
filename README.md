@@ -35,12 +35,15 @@ Starting from the center usually gives a longer partial path than starting from 
 
 ---
 # How to Compile and Run
+# option 1:
 # Compile
 
 gcc -O2 -Wall knight_tour.c -o knight_tour
 
 # Run
 ./knight_tour <board_size> <use_warnsdorff>
+# option 2:
+online C compiler "https://www.programiz.com/c-programming/online-compiler/"
 
 ---
 ## Example Output
